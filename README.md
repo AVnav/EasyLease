@@ -30,13 +30,13 @@ Allow residents to make monthly rental payments via the application.
 
 **Required Must-have Stories**
 
-* User logs in or register a new account
-* User can raise requests for maintenace or any other complaints
-* User can view upcoming food truck schedules along with menu.
-* User can book outdoor facilities like swimming, table tennis, etc.
-* User can see his messages like arrived packages, mail, monthly rental payment reminders and maintenance requests.
-* Profile pages for each user
-* Settings (History, Notification, General, etc.)
+* [x] User logs in or register a new account
+* [] User can raise requests for maintenace or any other complaints
+* [] User can view upcoming food truck schedules along with menu.
+* [] User can book outdoor facilities like swimming, table tennis, etc.
+* [] User can see his messages like arrived packages, mail, monthly rental payment reminders and maintenance requests.
+* [] Profile pages for each user
+* [] Settings (History, Notification, General, etc.)
 
 **Optional Nice-to-have Stories**
 
@@ -146,3 +146,7 @@ Optional:
       - (Read/GET) Query logged in user object
       - (Update/PUT) Update user profile information
 
+## Walkthrough Sprint 1
+Gif using Licecap of Home screen, Login screen, and Sign Up screen.
+
+<img src="walkthrough_U1.gif" width=800><br>
