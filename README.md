@@ -94,7 +94,7 @@ Optional:
 * Settings -> Toggle settings
 
 ## Wireframes
-<img src="https://i.imgur.com/9CrjH1K.jpg" width=800><br>
+<img src="codepath_wireframe.jpg" width=800><br>
 
 ## Schema 
 ### Models
