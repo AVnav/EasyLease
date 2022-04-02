@@ -35,8 +35,8 @@ Allow residents to make monthly rental payments via the application.
 * [] User can view upcoming food truck schedules along with menu.
 * [] User can book outdoor facilities like swimming, table tennis, etc.
 * [] User can see his messages like arrived packages, mail, monthly rental payment reminders and maintenance requests.
-* [] Profile pages for each user
-* [] Settings (History, Notification, General, etc.)
+* [x] Profile pages for each user
+* [x] Settings (History, Notification, General, etc.)
 
 **Optional Nice-to-have Stories**
 
