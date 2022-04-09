@@ -5,8 +5,23 @@
       <map>
         <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/layout/activity_maintenance.xml" value="0.5" />
+        <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/layout/activity_settings.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/91992/AndroidStudioProjects/EasyLease/app/src/main/res/xml/preferences.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/abhiv/OneDrive/Desktop/codepathFinalProj/EasyLease/app/src/main/res/layout/activity_login.xml" value="0.2608695652173913" />
+        <entry key="..\:/Users/abhiv/OneDrive/Desktop/codepathFinalProj/EasyLease/app/src/main/res/layout/activity_main.xml" value="0.2608695652173913" />
+        <entry key="..\:/Users/abhiv/OneDrive/Desktop/codepathFinalProj/EasyLease/app/src/main/res/layout/activity_maintenance.xml" value="0.2608695652173913" />
+        <entry key="..\:/Users/abhiv/OneDrive/Desktop/codepathFinalProj/EasyLease/app/src/main/res/layout/activity_messages.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/abhiv/OneDrive/Desktop/codepathFinalProj/EasyLease/app/src/main/res/layout/activity_profile.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/abhiv/OneDrive/Desktop/codepathFinalProj/EasyLease/app/src/main/res/layout/activity_schedule.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/abhiv/OneDrive/Desktop/codepathFinalProj/EasyLease/app/src/main/res/layout/activity_settings.xml" value="0.17654508611955422" />
+        <entry key="..\:/Users/abhiv/OneDrive/Desktop/codepathFinalProj/EasyLease/app/src/main/res/layout/activity_sign_up.xml" value="0.2608695652173913" />
+        <entry key="..\:/Users/abhiv/OneDrive/Desktop/codepathFinalProj/EasyLease/app/src/main/res/menu/menu_main.xml" value="0.36302083333333335" />
+        <entry key="..\:/Users/abhiv/OneDrive/Desktop/codepathFinalProj/EasyLease/app/src/main/res/xml/preferences.xml" value="0.2608695652173913" />
       </map>
     </option>
   </component>
